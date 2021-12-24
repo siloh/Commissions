@@ -34,7 +34,7 @@ a:active {
 <body>
 <div id="box">
   <header>&nbsp;
-    <h1 class="bigbiotitle">Alice's Portfolio</h1>
+    <h1 class="bigbiotitle">Siloh's Portfolio</h1>
 </header>
 <nav>
     <button type="button" class="btn btn-primary"><a href="../index.html"> Home</a></button>
